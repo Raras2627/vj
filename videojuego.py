@@ -12,7 +12,7 @@ class App:
         self.dx = 0.06
         self.win = False
         self.question = [
-            "Escribe texto y presiona ENTER.:",
+            "Escribe texto y presiona ENTER:",
             "?Cuentas personas hablan el zapoteco actualmente ?",
             "?En que paises se habla el zapoteco ?",
             "?Como se dice 'hola' en Quechua?",
