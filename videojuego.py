@@ -91,7 +91,7 @@ class App:
             pyxel.rect(5,115,5,20,8)
         pyxel.blt(self.x,115,1,0,0,22,3,8)
         if self.start:
-            pyxel.text(pyxel.width // 2 - 140 // 2, 10, "Presiona espacio", 7)
+            pyxel.text(pyxel.width // 2 - 140 // 2, 10, "Presiona espacio (PRESS SPACE)", 7)
             if pyxel.btnp(pyxel.KEY_SPACE):
                 self.start = False
                 self.in_game = True
