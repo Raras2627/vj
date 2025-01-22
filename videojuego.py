@@ -103,6 +103,7 @@ class App:
             self.x = -500
             pyxel.text(pyxel.width//2 - 140//2 + 2, 22, "!Bravo, han ganado!", 7)
         if self.death:
+            self.input_text = ''
             pyxel.text(pyxel.width//2 - 140//2 + 2, 22, "Que pena, han perdido.", 7)
 
 
