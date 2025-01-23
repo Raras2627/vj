@@ -22,16 +22,16 @@ class App:
         ]
         self.aide = [
             "",
-            "1; 3    2; -5    3; 800000    4; 1000",
-            "1; france    2; mexico    3; china    4; argentina",
-            "1; rimaykullayki     2; hola    3; bonjour    4; hello",
+            "-3    -5    -500000    -1000",
+            "-france    -mexico    -china    -argentina  ,
+            "-rimaykullayki     -hola    -bonjour    -hello",
             "",
             ""
             "",
         ]
         self.answers = [
             "",
-            "800000",
+            "500000",
             "mexico",
             "rimaykullayki",
             "",
