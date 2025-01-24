@@ -23,7 +23,7 @@ class App:
         self.aide = [
             "",
             "-3    -5    -500000    -1000",
-            "-france    -mexico    -china    -argentina  ,
+            "-france    -mexico    -china    -argentina ",
             "-rimaykullayki     -hola    -bonjour    -hello",
             "",
             ""
